@@ -85,3 +85,6 @@ The use of color not only makes the output visually distinct but also helps user
 
 Solaris is a versatile and visually appealing application designed to educate
 users about our solar system. Application combines structured data storage, simple user interface with visual formatting.
+
+**UPDATE 2024-04-13**
+Python version of the code has been added.
